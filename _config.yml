@@ -1,2 +1,3 @@
 name: ZILIE_HE_PersonalWebsite
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
